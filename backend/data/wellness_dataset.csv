@@ -1,0 +1,83 @@
+text,label
+I feel overwhelmed by my semester exams and assignments,academic_stress
+I am worried about my marks and upcoming tests,academic_stress
+The project deadline is making me stressed,academic_stress
+I cannot focus because of exam pressure,academic_stress
+I am scared that I may fail this subject,academic_stress
+పరీక్షల ఒత్తిడి వల్ల చదవలేకపోతున్నాను,academic_stress
+సెమిస్టర్ పరీక్షల గురించి చాలా ఆందోళనగా ఉంది,academic_stress
+అసైన్‌మెంట్ గడువు దగ్గరపడుతోంది,academic_stress
+தேர்வு அழுத்தத்தால் படிக்க முடியவில்லை,academic_stress
+செமஸ்டர் தேர்வு பற்றி கவலையாக உள்ளது,academic_stress
+I keep worrying about things even when nothing is wrong,anxiety
+I feel nervous before every class presentation,anxiety
+My heart races when I think about the future,anxiety
+I am constantly afraid something bad will happen,anxiety
+I feel panicky in crowded places,anxiety
+నాకు ఎప్పుడూ ఏదో జరుగుతుందేమో అని భయంగా ఉంది,anxiety
+భవిష్యత్తు గురించి ఎక్కువగా ఆలోచిస్తున్నాను,anxiety
+எப்போதும் ஏதோ தவறு நடக்கும் என்று பயமாக இருக்கிறது,anxiety
+எதிர்காலத்தை நினைத்து பதற்றமாக இருக்கிறது,anxiety
+I feel lonely even when I am around people,emotional_support
+I have been feeling sad and need someone to talk to,emotional_support
+I miss home and feel emotionally low,emotional_support
+I do not feel supported by my friends,emotional_support
+I feel alone in college,emotional_support
+నాకు చాలా ఒంటరిగా అనిపిస్తోంది,emotional_support
+ఎవరితోనైనా మాట్లాడాలని ఉంది,emotional_support
+கல்லூரியில் நான் தனியாக இருப்பது போல உணர்கிறேன்,emotional_support
+எனக்கு பேச யாராவது வேண்டும்,emotional_support
+I have a headache and mild fever,physical_health
+My stomach hurts after lunch,physical_health
+I have been coughing since yesterday,physical_health
+My back hurts after sitting for long hours,physical_health
+I feel unwell and want to consult the campus doctor,physical_health
+నాకు తలనొప్పి మరియు జ్వరం ఉన్నాయి,physical_health
+భోజనం తర్వాత కడుపు నొప్పిగా ఉంది,physical_health
+எனக்கு தலைவலி மற்றும் காய்ச்சல் உள்ளது,physical_health
+சாப்பிட்ட பிறகு வயிறு வலிக்கிறது,physical_health
+I cannot fall asleep at night,sleep_issues
+I wake up many times during the night,sleep_issues
+I feel tired because I sleep very late,sleep_issues
+My sleep schedule is irregular,sleep_issues
+I have trouble sleeping before exams,sleep_issues
+నాకు రాత్రి నిద్ర పట్టడం లేదు,sleep_issues
+నిద్ర సమయం సరిగా లేదు,sleep_issues
+இரவில் தூங்க முடியவில்லை,sleep_issues
+என் தூக்க நேரம் ஒழுங்காக இல்லை,sleep_issues
+I am worried about paying my college fees,financial_concerns
+My family is facing financial difficulties,financial_concerns
+I need guidance about scholarship options,financial_concerns
+I cannot afford the books I need,financial_concerns
+I am looking for student financial assistance,financial_concerns
+కాలేజీ ఫీజు ఎలా చెల్లించాలో తెలియడం లేదు,financial_concerns
+స్కాలర్‌షిప్ వివరాలు కావాలి,financial_concerns
+கல்லூரி கட்டணம் செலுத்துவது பற்றி கவலையாக உள்ளது,financial_concerns
+உதவித்தொகை விவரங்கள் வேண்டும்,financial_concerns
+I am having frequent arguments with my roommate,relationship_issues
+I have a problem communicating with my family,relationship_issues
+My friendship has become difficult,relationship_issues
+I am struggling with a relationship problem,relationship_issues
+I feel pressure from family expectations,relationship_issues
+నా కుటుంబంతో మాట్లాడటంలో సమస్య ఉంది,relationship_issues
+నా స్నేహితుడితో గొడవ జరిగింది,relationship_issues
+குடும்பத்துடன் பேசுவதில் சிக்கல் உள்ளது,relationship_issues
+நண்பருடன் கருத்து வேறுபாடு ஏற்பட்டது,relationship_issues
+I want tips to maintain a healthy lifestyle,general_wellness
+Please suggest a simple daily fitness routine,general_wellness
+How can I improve my eating habits,general_wellness
+I want to learn breathing exercises for relaxation,general_wellness
+I would like information about campus wellness activities,general_wellness
+ఆరోగ్యకరమైన జీవనశైలి కోసం సూచనలు ఇవ్వండి,general_wellness
+రోజూ వ్యాయామం చేయడానికి సలహాలు కావాలి,general_wellness
+ஆரோக்கியமான வாழ்க்கை முறைக்கு ஆலோசனை வேண்டும்,general_wellness
+தினசரி உடற்பயிற்சி திட்டம் வேண்டும்,general_wellness
+I am thinking about suicide and may hurt myself,urgent_safety
+I might kill myself tonight,urgent_safety
+I want to hurt myself and cannot stay safe,urgent_safety
+I have a plan to end my life,urgent_safety
+I do not think I can keep myself safe right now,urgent_safety
+నాకు నేను హాని చేసుకోవాలనే ఆలోచనలు వస్తున్నాయి,urgent_safety
+నేను సురక్షితంగా ఉండలేనేమో అనిపిస్తోంది,urgent_safety
+என்னை காயப்படுத்திக் கொள்ள வேண்டும் என்று தோன்றுகிறது,urgent_safety
+என் உயிரை மாய்த்துக்கொள்ள நினைக்கிறேன்,urgent_safety
